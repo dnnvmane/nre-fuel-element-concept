@@ -15,7 +15,7 @@ The full conceptual design is broken down into the following sections for easier
 
 1.  **[General Fuel Element (TVER) Characteristics](1-general-characteristics.md)** – Key specifications, mass, power, and overall architecture.
 2.  **[Coolant Flow (LH₂) Characteristics](2-lh2-flow.md)** – Parameters and principles of the liquid hydrogen cooling system.
-3.  **[Gas Column (Aerodynamic Tip & Buffer)](3-gas-column.md)** – Design of the upstream tip, SAW temperature sensor, and helium buffer.
+3.  **[Gas Column (Aerodynamic Tip & Buffer)](3-gas-column.md)** – Design of the aerodynamic tip, SAW temperature sensor, and helium buffer.
 4.  **[Intermediate Flange (Multi-Layer Barrier)](4-intermediate-flange.md)** – The critical sealing layer between the gas and fuel columns.
 5.  **[Fuel Column (Active Core)](5-fuel-column.md)** – The heart of the element: fuel pellets, heat spreaders, helium gaps, and fission product management.
 
