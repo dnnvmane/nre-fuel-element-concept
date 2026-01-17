@@ -16,6 +16,6 @@ The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The 
 **Navigation:**
 | | |
 | :--- | :--- |
-| **[← Back to Overview](../README.md)** | Home |
+| **[← Back to Overview](README.md)** | Home |
 | **[← Previous: General Characteristics](1-general-characteristics.md)** | General TVER Characteristics |
 | **[Next Section: Gas Column →](3-gas-column.md)** | Gas Column Design |
