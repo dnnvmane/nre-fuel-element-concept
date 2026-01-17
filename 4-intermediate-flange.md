@@ -42,3 +42,10 @@
 2.  The **Mo-Pd bi-layer** provides a reliable, high-temperature platform for rigid sensor mounting.
 3.  The **TZM layer** acts as an impermeable barrier for hot helium, while efficiently conducting heat to the Nb-1Zr layer for rejection to the coolant.
 4.  The **helium buffer** in the gas column actively cools the flange through direct contact.
+---
+**Navigation:**
+| | |
+| :--- | :--- |
+| **[← Back to Overview](README.md)** | Home |
+| **[← Previous: Gas Column](3-gas-column.md)** | Gas Column Design |
+| **[Next Section: Fuel Column →](5-fuel-column.md)** | Fuel Column Design |
