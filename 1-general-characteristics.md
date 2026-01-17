@@ -15,5 +15,5 @@ This section outlines the key parameters of the conceptual solid-core Nuclear Th
 **Navigation:**
 | | |
 | :--- | :--- |
-| **[← Back to Overview](../README.md)** | Home |
+| **[← Back to Overview](README.md)** | Home |
 | **[Next Section: LH₂ Flow →](2-lh2-flow.md)** | Coolant Flow Characteristics |
