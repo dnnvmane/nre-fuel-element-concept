@@ -12,3 +12,10 @@ The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The 
 | **Jet Diameter** | 20 mm | Matches the element's outer diameter for full coverage. |
 | **Jet Cross-Sectional Area** | ≈ 3.14 cm² | |
 | **Jet Velocity** | ≈ 22.4 cm/s | **Ensures a laminar flow regime**, crucial for stable and efficient heat transfer without destructive turbulence. |
+---
+**Navigation:**
+| | |
+| :--- | :--- |
+| **[← Back to Overview](../README.md)** | Home |
+| **[← Previous: General Characteristics](1-general-characteristics.md)** | General TVER Characteristics |
+| **[Next Section: Gas Column →](3-gas-column.md)** | Gas Column Design |
