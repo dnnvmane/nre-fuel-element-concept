@@ -58,3 +58,10 @@ The sensor is the primary health-monitoring device, located at the base of the g
 1.  **Flow Management:** The incoming LH₂ jet impinges on the aerodynamic tip, which **laminarizes and radially deflects** the flow, ensuring uniform coolant distribution over the entire fuel element surface.
 2.  **Thermal Management:** The internal helium buffer **conducts heat** from the high-temperature base (sensor and flange) to the cooler shell walls, where it is removed by the LH₂ flow.
 3.  **Health Monitoring:** The SAW sensor **continuously monitors** the temperature at the base, providing real-time data crucial for reactor control and protection systems.
+---
+**Navigation:**
+| | |
+| :--- | :--- |
+| **[← Back to Overview](../README.md)** | Home |
+| **[← Previous: LH₂ Flow](2-lh2-flow.md)** | Coolant Flow Characteristics |
+| **[Next Section: Intermediate Flange →](4-intermediate-flange.md)** | Intermediate Flange Design |
