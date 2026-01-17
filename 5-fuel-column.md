@@ -98,3 +98,9 @@ The system ensures continuous FP evacuation via helium flow:
 | **Total Fuel Column Mass** | **≈ 1.13 kg** | **~94% of total TVER mass** |
 
 *The gas column and intermediate flange contribute the remaining ~6% to the total estimated TVER mass of ~1.2 kg.*
+---
+**Navigation:**
+| | |
+| :--- | :--- |
+| **[← Back to Overview](README.md)** | Home |
+| **[← Previous: Intermediate Flange](4-intermediate-flange.md)** | Intermediate Flange Design |
