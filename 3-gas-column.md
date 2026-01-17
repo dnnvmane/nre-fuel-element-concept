@@ -62,6 +62,6 @@ The sensor is the primary health-monitoring device, located at the base of the g
 **Navigation:**
 | | |
 | :--- | :--- |
-| **[← Back to Overview](../README.md)** | Home |
+| **[← Back to Overview](README.md)** | Home |
 | **[← Previous: LH₂ Flow](2-lh2-flow.md)** | Coolant Flow Characteristics |
 | **[Next Section: Intermediate Flange →](4-intermediate-flange.md)** | Intermediate Flange Design |
