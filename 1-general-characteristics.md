@@ -9,9 +9,11 @@
 | **Fuel Form** | Solid UO₂–Mo composite pellets |
 | **Coolant** | Continuous flow of liquid hydrogen (LH₂) |
 | **Design Architecture** | A vertical stack of three integrated components: <br>1. **Gas Column** (Aerodynamic tip & helium buffer) <br>2. **Intermediate Flange** (Multi-layer diffusion barrier) <br>3. **Fuel Column** (Active heat-generating core) |
+
 ---
 ![**Overall view of the fuel element:**](./images/2-overall-view.jpg)
 ---
+
 **Navigation:**
 | | |
 | :--- | :--- |
