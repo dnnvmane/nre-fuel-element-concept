@@ -19,6 +19,7 @@
 
 ---
 ![Shape of the intermediate flange from the side](./images/8-shape-of-internal-flange.jpg)
+
 ![Shape of the intermediate flange from the top and bottom](./images/9-top-and-bottom-view-of-flange.jpg)
 ---
 
