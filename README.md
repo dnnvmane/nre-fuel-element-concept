@@ -1,6 +1,6 @@
-# Conceptual Design of a Fuel Element for Solid-Core Nuclear Thermal Propulsion
+# Conceptual Design of a Fuel Element for Solid-Core Nuclear Rocket Engine
 
-This repository contains a detailed conceptual design for a fuel element (TVER) intended for a solid-core Nuclear Rocket Engine (NRE). The project outlines a complete architecture to enable efficient heat transfer from nuclear fission to a liquid hydrogen (LH₂) propellant—a critical step toward fast and efficient interplanetary travel.
+This repository contains a detailed conceptual design for a fuel element (TVER) intended for a solid-core Nuclear Rocket Engine (NRE). The project outlines a complete architecture to enable efficient heat transfer from nuclear fission to a liquid hydrogen (LH₂) propellant — a critical step toward fast and efficient interplanetary travel.
 
 hii every1. im 17 and decided to dive deep into **engineering** by tackling a real challenge: designing a **functional fuel element** (at least conceptually). tis element is intended for a solid-core NRE engine, where the core challenge is transferring heat from **nuclear fuel directly to the LH₂ propellant.**
 
