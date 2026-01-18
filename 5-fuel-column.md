@@ -129,6 +129,7 @@ The system ensures continuous FP evacuation via helium flow:
 ![Overall view of fuel component with the internal layout from the side](./images/20-overall-view-with-layout.jpg)
 ---
 
+---
 **Navigation:**
 | | |
 | :--- | :--- |
