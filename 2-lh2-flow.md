@@ -13,6 +13,8 @@ The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The 
 | **Jet Cross-Sectional Area** | ≈ 3.14 cm² | |
 | **Jet Velocity** | ≈ 22.4 cm/s | **Ensures a laminar flow regime**, crucial for stable and efficient heat transfer without destructive turbulence. |
 ---
+!(./images/3-flow-spreading.jpg)
+---
 **Navigation:**
 | | |
 | :--- | :--- |
