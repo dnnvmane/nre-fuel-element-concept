@@ -17,6 +17,11 @@
 
 *   *Note:* The Pd and Mo layers reside inside the gas column volume, while the TZM layer is inside the fuel column. The Nb-1Zr layer is integral to the fuel element's outer cladding.
 
+---
+![Shape of the intermediate flange from the side](./images/8-shape-of-internal-flange.jpg)
+![Shape of the intermediate flange from the top and bottom](./images/9-top-and-bottom-view-of-flange.jpg)
+---
+
 **4.2. Layer Specifications**
 
 | Layer | Material | Diameter [mm] | Height [mm] | Primary Function | Est. Mass |
@@ -42,7 +47,11 @@
 2.  The **Mo-Pd bi-layer** provides a reliable, high-temperature platform for rigid sensor mounting.
 3.  The **TZM layer** acts as an impermeable barrier for hot helium, while efficiently conducting heat to the Nb-1Zr layer for rejection to the coolant.
 4.  The **helium buffer** in the gas column actively cools the flange through direct contact.
+
 ---
+![Layers of the intermediate flange from the side](./images/10-layers-of-flange.jpg)
+---
+
 **Navigation:**
 | | |
 | :--- | :--- |
