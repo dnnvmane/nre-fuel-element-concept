@@ -37,6 +37,12 @@ The gas column is a single-piece shell consisting of an **aerodynamic cone** (he
 | **Estimated Mass** | ≈ 50 g |
 | **Attachment** | Joined to the **intermediate flange** via **diffusion brazing** in a vacuum furnace at ~1000 K (to the Nb-1Zr layer). Uniform clamping ensures a permanent, hermetic seal. *The intermediate flange serves as the column's integrated bottom end cap.* |
 
+---
+![Figure 3: Aerodynamic tip from the side](./images/4-shape-of-tip.jpg)
+
+![Figure 3: Aerodynamic tip from the bottom](./images/5-bottom-view-of-tip.jpg)
+---
+
 #### **3.3. Internal Components**
 **A) SAW (Surface Acoustic Wave) Temperature Sensor**
 The sensor is the primary health-monitoring device, located at the base of the gas column.
@@ -58,7 +64,13 @@ The sensor is the primary health-monitoring device, located at the base of the g
 1.  **Flow Management:** The incoming LH₂ jet impinges on the aerodynamic tip, which **laminarizes and radially deflects** the flow, ensuring uniform coolant distribution over the entire fuel element surface.
 2.  **Thermal Management:** The internal helium buffer **conducts heat** from the high-temperature base (sensor and flange) to the cooler shell walls, where it is removed by the LH₂ flow.
 3.  **Health Monitoring:** The SAW sensor **continuously monitors** the temperature at the base, providing real-time data crucial for reactor control and protection systems.
+
 ---
+![Inrernal layout of gas column from the side](./images/6-gas-column-layout.jpg)
+
+![Inrernal layout of gas column from the bottom](./images/7-bottom-view-of-layout.jpg)
+---
+
 **Navigation:**
 | | |
 | :--- | :--- |
