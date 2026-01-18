@@ -38,9 +38,9 @@ The gas column is a single-piece shell consisting of an **aerodynamic cone** (he
 | **Attachment** | Joined to the **intermediate flange** via **diffusion brazing** in a vacuum furnace at ~1000 K (to the Nb-1Zr layer). Uniform clamping ensures a permanent, hermetic seal. *The intermediate flange serves as the column's integrated bottom end cap.* |
 
 ---
-![Figure 3: Aerodynamic tip from the side](./images/4-shape-of-tip.jpg)
+![Aerodynamic tip from the side](./images/4-shape-of-tip.jpg)
 
-![Figure 3: Aerodynamic tip from the bottom](./images/5-bottom-view-of-tip.jpg)
+![Aerodynamic tip from the bottom](./images/5-bottom-view-of-tip.jpg)
 ---
 
 #### **3.3. Internal Components**
