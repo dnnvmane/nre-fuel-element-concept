@@ -53,7 +53,6 @@
 ![Layers of the intermediate flange from the side](./images/10-layers-of-flange.jpg)
 ---
 
----
 **Navigation:**
 | | |
 | :--- | :--- |
