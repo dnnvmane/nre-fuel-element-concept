@@ -22,6 +22,12 @@ The cladding is a **hollow cylinder** (Ø24 mm × 273 mm high) without integrate
 | **Inner** | **TZM**<br>(Ti-Zr-Mo) | 0.5 mm | 1. **Helium Diffusion Barrier:** Prevents hot He from the fuel column from penetrating into the structural layer.<br>2. **Inner Pressure Vessel:** Withstands He pressure.<br>3. **Heat Conduit:** Transfers heat from the internal He buffer to the outer layer. | Sheet rolling (69×273×0.5 mm) + laser-welded seam. | ~100 g |
 | **Outer** | **Nb-1Zr** | 1.0 mm | 1. **Structural Shell:** Absorbs and dampens reactor vibrations.<br>2. **Coolant Pressure Boundary:** Withstands LH₂ flow pressure (~22 atm).<br>3. **Primary Heat Transfer Surface:** Directly interfaces with and heats the LH₂ coolant. | Sheet rolling (75×273×1 mm) + laser-welded seam. | ~175 g |
 
+---
+![Shape of the fuel column cladding from the side](./images/11-shape-of-cladding.jpg)
+
+![Shape of the fuel column cladding from the top and bottom](./images/12-bottom-and-top-view-of-cladding.jpg)
+---
+
 #### **5.2. Cladding End Attachments (Structural Interfaces)**
 The dual-layer cladding must be securely integrated into the larger reactor structure at both ends. The attachment methods differ, reflecting the distinct thermal and mechanical conditions at each interface.
 
@@ -39,6 +45,16 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 | **Fuel Pellet** | 10 | **UO₂–Mo Composite**<br>(70% UO₂, 30% Mo) | Ø20×20 mm<br>(Ø7 mm central hole) | **Heat Generation** via U-235 fission. | • **Enrichment:** 30% U-235.<br>• **Power:** ~30 kW/pellet.<br>• **Total Heat Area:** 22.48 cm². | ~590 g |
 | **Thermal Insert** | 11 | **Pure Molybdenum (Mo)** | Ø20×5 mm<br>(Ø7 mm central hole) | **Axial Heat Spreading** from pellet ends to cladding. | Ensures uniform temperature distribution along the column. | ~155 g |
 | **Thermal Rod** | 1 | **Pure Molybdenum (Mo)** | Ø7×269 mm | 1. **Central Heat Conductor** (axial).<br>2. **Mechanical Spine** for the entire stack. | • Height allows for thermal expansion.<br>• Brazed at base to reactor core (Mo↔Mo at ~1000 K). | ~106 g |
+
+---
+![Shape of the pellet from the side, top and bottom](./images/13-pellet.jpg)
+
+![Shape of the insert from the side, top and bottom](./images/14-insert.jpg)
+
+![Shape of the thermal rod from the side](./images/15-thermal-rod.jpg)
+
+![Shape of the thermal rod from the top and bottom](./images/16-top-and-bottom-view-of-rod.jpg)
+---
 
 **Design Rationale & Key Features:**
 
@@ -59,6 +75,10 @@ The internal volume is structured into repeating **standard gaps** and two **enl
 | **Upper Enlarged Gap** | 9.5 mm | TZM Flange (1 mm) – **Upper He-Gap (3 mm)** – Mo Insert (5 mm) – He-minigap (0.5 mm) | • **FP Collection:** Main trap for **light gaseous FPs**.<br>• **Thermal Insulation:** Reduces heat flux to intermediate flange. | **1 unit**<br>*(Above top pellet)* |
 | **Lower Enlarged Gap** | 9.5 mm | He-minigap (0.5 mm) – Mo Insert (5 mm) – **Lower He-Gap (4 mm)** | • **FP Collection:** Main trap for **heavy FP fractions**.<br>• **Thermal Insulation:** Reduces heat flux to lower core end. | **1 unit**<br>*(Below bottom pellet)* |
 
+---
+![Shape of the gaps from the side](./images/17-gaps.jpg)
+---
+
 **Total Active Stack Height Verification:**<br>
 `(1 Upper Gap × 9.5 mm) + (10 Pellets × 20 mm) + (9 Standard Gaps × 6 mm) + (1 Lower Gap × 9.5 mm) = 273 mm`
 
@@ -70,6 +90,12 @@ Beyond the axial gaps, a crucial **radial helium layer** exists between the oute
     1.  **Radial Heat Transfer:** Conducts heat from the *side surfaces* of pellets and inserts directly to the TZM cladding layer.
     2.  **Radial FP Sweep:** Collects FPs released from pellet side surfaces and guides them towards the upper and lower collection gaps.
     3.  **Pressure Uniformity:** Ensures equal helium pressure across the entire complex internal volume.
+
+---
+![Internal layout of fuel column from the side](./images/18-fuel-column-layout.jpg)
+
+![Internal layout of fuel column from the top and bottom](./images/19-bottom-and-top-view-of-layout.jpg)
+---
 
 #### **5.4.3. Integrated Fission Product Removal Pathways**
 The system ensures continuous FP evacuation via helium flow:
@@ -98,7 +124,11 @@ The system ensures continuous FP evacuation via helium flow:
 | **Total Fuel Column Mass** | **≈ 1.13 kg** | **~94% of total TVER mass** |
 
 *The gas column and intermediate flange contribute the remaining ~6% to the total estimated TVER mass of ~1.2 kg.*
+
 ---
+![Overall view of fuel component with the internal layout from the side](./images/20-overall-view-with-layout.jpg)
+---
+
 **Navigation:**
 | | |
 | :--- | :--- |
