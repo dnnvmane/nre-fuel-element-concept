@@ -1,5 +1,8 @@
 ### **3. Gas Column (Aerodynamic Tip & Buffer Volume)**
-**Primary Functions:** 1) Distributes and laminarizes the LH₂ coolant flow; 2) Houses the primary temperature monitoring sensor; 3) Cools the intermediate flange via an internal helium buffer.
+**Primary Functions:**
+1. Distributes and laminarizes the LH₂ coolant flow.
+2. Houses the primary temperature monitoring sensor.
+3. Cools the intermediate flange via an internal helium buffer.
 
 #### **3.1. Geometry and Dimensions**
 The gas column is a single-piece shell consisting of an **aerodynamic cone** (height: 30 mm) seamlessly transitioning to a **cylinder** (height: 20 mm).
