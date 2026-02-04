@@ -1,6 +1,6 @@
 ### **2. Coolant Flow (LH₂) Characteristics**
 
-The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The working principle involves the LH₂ jet—shaped into a cylinder by an upstream flow distributor—impinging on the aerodynamic tip and washing over the entire element surface. This process cools the cladding while heating the hydrogen to ~4000-4200 K for subsequent expansion in the engine nozzle, which is the fundamental mechanism enabling NTP's high specific impulse compared to chemical rockets.
+The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The working principle involves the LH₂ jet — shaped into a cylinder by an upstream flow distributor — impinging on the aerodynamic tip and washing over the entire element surface. This process cools the cladding while heating the hydrogen to ~4000-4200 K for subsequent expansion in the engine nozzle, which is the fundamental mechanism enabling NTP's high specific impulse compared to chemical rockets.
 
 **Key Flow Parameters (Per Single Fuel Element):**
 
