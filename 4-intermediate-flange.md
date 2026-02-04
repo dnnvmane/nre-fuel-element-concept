@@ -31,7 +31,7 @@
 | **2.** | Mo (Molybdenum) | 16 | 0.5 | Intermediate brazing layer, bonds Pd to Nb-1Zr | ≈ 1.0 g |
 | **3.** | Nb-1Zr | 24 | 2.0 | **Structural core:** absorbs mechanical & thermal loads | ≈ 7.8 g |
 | **4. Bottom** | TZM | 20 | 1.0 | **Diffusion barrier:** blocks hot He ingress from fuel column | ≈ 1.6 g |
-| | | | **Total:** | **≈ 4.0 mm** | **≈ 11.6 g** |
+| **5. Total** | | **≈ 24 mm** | **≈ 4.0 mm** | | **≈ 11.6 g** |
 
 **4.3. Assembly Process (Step-by-Step)**
 *This process is designed for a single heating cycle in a vacuum furnace with controlled temperature and pressure stages.*
