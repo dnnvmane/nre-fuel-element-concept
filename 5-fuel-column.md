@@ -7,7 +7,7 @@
 4.  **Structural Dynamics:** Partially absorbs core-wide vibrations while transmitting necessary loads to the intermediate flange.
 
 #### **5.1. Dual-Layer Cladding (Pressure Shell & Heat Exchanger)**
-The cladding is a **hollow cylinder** (Ø24/Ø21 × 273 mm) without integrated end caps, acting as the primary pressure boundary and heat exchanger.
+The cladding is a **hollow cylinder** without integrated end caps, acting as the primary pressure boundary and heat exchanger.
 
 *   **Key Dimensions:**
     *   Outer Diameter: 24 mm
