@@ -55,7 +55,7 @@ The sensor is the primary health-monitoring device, located at the base of the g
 | **Location** | At the very bottom of the gas column volume, mounted on the intermediate flange (at h = 0). |
 | **Oscillator** | **Material:** LiTaO₃ (Lithium Tantalate). **Form:** Cylinder (Ø4×6 mm). **Principle:** Piezoelectric substrate whose mechanical resonant frequency shifts with temperature. |
 | **Antenna** | **Material:** Ta (Tantalum). **Form:** Cylinder (Ø4×4 mm). **Principle:** Interdigital Transducers (IDT) that convert mechanical oscillations into radio signals for wireless readout. |
-| **Protective Case** | **Material:** YH₂ (Yttrium Hydride). **Form:** Hermetic cylinder (Ø15×20 mm, 5 mm walls). **Functions:** Neutron shielding, thermal insulation, and mechanical protection for the sensor. **Attachment:** Brazed to the flange via a Pd interlayer at ~800 K. |
+| **Protective Case** | **Material:** YH₂ (Yttrium Hydride). **Form:** Hermetic cylinder (Ø15×20 mm, 5 mm walls). **Functions:** Neutron shielding, thermal insulation, and mechanical protection for the sensor. **Attachment:** Brazed to the intermediate flange via a Pd interlayer at ~800 K. |
 | **Internal Setup** | The sensor is suspended in a vacuum inside the case with a 0.5 mm radial gap at 300 K to accommodate thermal expansion. |
 | **Estimated Mass** | ≈ 14.5 g |
 
