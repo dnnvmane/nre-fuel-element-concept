@@ -8,9 +8,9 @@ The fuel element is cooled by a continuous flow of liquid hydrogen (LH₂). The 
 | :--- | :--- | :--- |
 | **Mass Flow Rate** | ≈ 5 g/s | *For a core of ~10,000 elements, total flow ≈ 50 kg/s.* |
 | **Inlet Temperature** | ≈ 20 K | Liquid hydrogen state. |
-| **Inlet Pressure** | ≈ 22 atm | |
-| **Jet Diameter** | 20 mm | Matches the element's outer diameter for full coverage. |
-| **Jet Cross-Sectional Area** | ≈ 3.14 cm² | |
+| **Inlet Pressure** | ≈ 22 atm | Optimal for good heat transfer. |
+| **Jet Diameter** | 20 mm | Less than the element's outer diameter for full coverage. |
+| **Jet Cross-Sectional Area** | ≈ 3.14 cm² | Area of a circle ∅20 mm. |
 | **Jet Velocity** | ≈ 22.4 cm/s | **Ensures a laminar flow regime**, crucial for stable and efficient heat transfer without destructive turbulence. |
 
 ---
