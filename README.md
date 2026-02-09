@@ -9,7 +9,7 @@ To better understand the context of this project 🧠, I recommend familiarizing
 2.  **The design and operating principles of nuclear fuel elements.** 🎛️
 3.  **The design and history of engines like the Soviet RD-0410, an early NTP prototype.** 🚀
 
-## 📃 Full Article & Documentation
+## 📚 Full Article & Documentation
 
 The full conceptual design is broken down into the following sections for easier navigation:
 
