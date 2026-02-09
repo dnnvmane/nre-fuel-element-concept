@@ -42,8 +42,8 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 
 | Component | Qty | Material & Composition | Dimensions (Ø × h) | Primary Function | Key Parameter / Note | Est. Mass |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Fuel Pellet** | 10 | **UO₂–Mo Composite**<br>(70% UO₂, 30% Mo) | Ø20×20 mm<br>(Ø7 mm central hole) | **Heat Generation** via U-235 fission. | • **Enrichment:** 30% U-235.<br>• **Power:** ~30 kW/pellet.<br>• **Total Heat Area:** 22.48 cm². | ~590 g |
-| **Thermal Insert** | 11 | **Pure Molybdenum (Mo)** | Ø20×5 mm<br>(Ø7 mm central hole) | **Axial Heat Spreading** from pellet ends to cladding. | Ensures uniform temperature distribution along the column. | ~155 g |
+| **Fuel Pellet** | 10 | **UO₂–Mo Composite**<br>(70% UO₂, 30% Mo) | Ø20×20 mm<br>(Ø6.9 mm central hole) | **Heat Generation** via U-235 fission. | • **Enrichment:** 30% U-235.<br>• **Power:** ~30 kW/pellet.<br>• **Total Heat Area:** 22.48 cm². | ~590 g |
+| **Thermal Insert** | 11 | **Pure Molybdenum (Mo)** | Ø20×5 mm<br>(Ø6.9 mm central hole) | **Axial Heat Spreading** from pellet ends to cladding. | Ensures uniform temperature distribution along the column. | ~155 g |
 | **Thermal Rod** | 1 | **Pure Molybdenum (Mo)** | Ø7×269 mm | 1. **Central Heat Conductor** (axial).<br>2. **Mechanical Spine** for the entire stack. | • Height allows for thermal expansion.<br>• Brazed at base to reactor core (Mo↔Mo at ~1000 K). | ~106 g |
 
 ---
