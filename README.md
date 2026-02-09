@@ -24,9 +24,15 @@ The full conceptual design is broken down into the following sections for easier
 ## 🎨 Visual Documentation & Diagrams
 The design is supported by **20 engineering diagrams** created in draw.io. 🖌️ For the best experience, these diagrams are **embedded directly within each relevant section** of the documentation. Sorry if the images are crooked. 🥺🙏
 
+## 💡 Contributing & Feedback
+This is a conceptual design open for discussion. If you spot errors or have ideas for improvement:
+- Open a GitHub Issue.
+- Fork and submit a Pull Request.
+- Or just star the repo. ⭐️ If you want to. 😉
+
 ## 👥 Credits
-*   **Concept, Engineering Layout & Diagrams:** Made by **me**.
-*   **Technical Write-up, Structuring & Polishing:** Made by **me and DeepSeek AI.** 🖤🤍🐋
+*   **Concept, Engineering Layout & Diagrams:** Made by **dnnvmane**.
+*   **Technical Write-up, Structuring & Polishing:** Made by **dnnvmane and DeepSeek AI.** 🖤🤍🐋
 
 ---
 ![Fuel element preview](./images/1-preview.jpg)
