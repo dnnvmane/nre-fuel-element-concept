@@ -34,8 +34,7 @@ The design is supported by **20 diagrams** created in draw.io. 🖌️ For the b
 This is a conceptual design open for discussion. If you spot errors or have ideas for improvement:
 - Open a **GitHub Issue.**
 - Fork and submit a **Pull Request.**
-- Or just **star the repo.** ⭐️ If you want to. 😇
-**You can also leave a comment under the Reddit post.** 💬
+- Or just **star the repo.** ⭐️ If you want to. 😇 You can also **leave a comment under the Reddit post.** 💬
 
 ## 👥 Credits
 *   **Concept, Engineering Layout & Diagrams:** Made by **dnnvmane**.
