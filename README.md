@@ -2,7 +2,7 @@
 
 This repository contains a conceptual design for a fuel element (TVER) intended for a solid-core Nuclear Rocket Engine (NRE). The project outlines a complete architecture to enable efficient heat transfer from nuclear fission to a liquid hydrogen (LH₂) propellant — a critical step toward fast and efficient interplanetary travel.
 
-Hi everyone. 👋 I'm 17 ☺️ and decided to dive deep into **engineering** 👨‍🏭 by tackling a real challenge: designing a **functional fuel element** (at least conceptually 😉). This element is intended for a solid-core NRE engine 💪, where the core challenge is transferring heat from **nuclear fuel directly to the LH₂ propellant.**
+Hi everyone. 👋 I'm 17 ☺️ and decided to dive deep into **engineering** 👨‍🏭 by tackling a real challenge: designing a **functional fuel element** (at least conceptually 😉). This element is intended for a solid-core NRE engine ☢️🚀, where the core challenge is transferring heat from **nuclear fuel directly to the LH₂ propellant.**
 
 To better understand the context of this project 🧠, I recommend familiarizing yourself 🔬 with a few key topics:
 1.  **The physics of UO₂ and nuclear fission reactions.** ☢️
@@ -39,6 +39,7 @@ This is a conceptual design open for discussion. If you spot errors or have idea
 ## 👥 Credits
 *   **Concept, Engineering Layout & Diagrams:** Made by **dnnvmane**.
 *   **Technical Write-up, Structuring & Polishing:** Made by **dnnvmane and DeepSeek AI.** 🖤🤍🐋
+*   **This work is dedicated to the public domain under** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 ![Fuel element preview](./images/1-preview.jpg)
