@@ -71,3 +71,4 @@
 | **Graphite bushing extraction** | Low | BN coating + 0.5° taper |
 
 ---
+***Not finished yet ⚠️.***
