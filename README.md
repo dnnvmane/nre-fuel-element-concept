@@ -23,7 +23,7 @@ The full conceptual design is broken down into the following sections for easier
 3.  **[Gas Column (Aerodynamic Tip & Buffer)](3-gas-column.md)** – Design of the aerodynamic tip, SAW temperature sensor, and helium buffer.
 4.  **[Intermediate Flange (Multi-Layer Barrier)](4-intermediate-flange.md)** – The critical sealing layer between the gas and fuel columns.
 5.  **[Fuel Column (Active Core)](5-fuel-column.md)** – The heart of the element: fuel pellets, heat spreaders, helium gaps, and fission product management.
-6.  **[Assembly (production) of the fuel element](6-assembly.md)** – Step-by-step manufacturing & assembly sequence, from subcomponents to finished TVER.
+6.  **[Assembly (Production) Of The Fuel Element](6-assembly.md)** – Step-by-step manufacturing & assembly sequence, from subcomponents to finished TVER.
 
 ***(Click on any section title to read it.)***
 
