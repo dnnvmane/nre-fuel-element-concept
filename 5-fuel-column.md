@@ -68,7 +68,7 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 | :--- | :--- | :--- |
 | **UO₂–Mo Fuel Pellet** | **Powder Metallurgy: Hot Isostatic Pressing (HIP).** | 1. **Powder Mix:** Blending of UO₂ and Mo powders (70/30 wt%). <br> 2. **Molding:** Loading into a **sacrificial Silicon Carbide (SiC) die** with the final pellet geometry (Ø20×20 mm with a Ø6.97 mm central hole). <br> 3. **Consolidation:** HIP at ~1500-1700°C under Argon pressure (~100 MPa) to achieve near-theoretical density and a homogeneous, crack-free microstructure. |
 | **Molybdenum Insert** | **Sheet Metal Forming & Machining.** | 1. **Material:** Starts as **rolled Mo sheet of full insert thickness (6.5 mm)**. <br> 2. **Blank Preparation:** Punching of Ø20 mm disks from the sheet. <br> 3. **Machining:** Drilling of the Ø7 mm central hole and finishing of dimensions. <br> 4. **Heat Treatment:** Stress-relief annealing. |
-| **Molybdenum Thermal Rod Assembly** | **Multi-Step Process: Rod Drawing + Sleeve Fabrication & Brazing.** | 1. **Core Rod:** Precision-drawn and ground Mo rod to **Ø6.00 mm**. <br> 2. **Compliant Sleeve:** Fabrication of a **corrugated Mo foil (~0.55 mm thick)**. The corrugation pattern is optimized for axial compliance. <br> 3. **Assembly:** The sleeve is wrapped around the core and **diffusion-brazed** to it, forming a permanent bond. The final assembly diameter is **nominally ~7.1 mm**, providing the necessary interface with the pellet/insert stack. |
+| **Molybdenum Thermal Rod Assembly** | **Precision-ground from solid molybdenum bar.**<br>∅7.00 mm × 269 mm.<br>Surface finish Ra ≤ 0.4 µm. | • **No brazing, no winding.** One-piece construction.<br>• Maximizes axial thermal conductivity.<br>• Compatible with **thermal interference fit assembly** (inserts/pellets heated, rod cold).<br>• Calibrated diameter ensures **uniform helium gap** (0.5 mm radial). |
 
 #### **5.3.2. Thermal Rod Stack Assembly**
 
@@ -91,7 +91,7 @@ No mechanical fasteners — only controlled heating and cooling.
 All components are **self-locking** on the rod. No brazing, no threading, no loose parts.
 ### **5.4. Helium Buffer & Integrated Fission Product Management System**
 
-Helium at an initial pressure of ~5 atm (at 300 K) fills all internal voids, serving three critical functions: 1) **Heat transfer medium**; 2) **Fission product (FP) transport fluid**; 3) **Pressure equalization buffer**.
+Helium at an initial pressure of ~5 atm (at 273 K) fills all internal voids, serving three critical functions: 1) **Heat transfer medium**; 2) **Fission product (FP) transport fluid**; 3) **Pressure equalization buffer**.
 
 #### **5.4.1. Functional Gap Types & Layout**
 The internal volume is structured into repeating **standard gaps** and two **enlarged end gaps**. This modular design ensures heat removal and FP segregation.
