@@ -62,7 +62,15 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 *   **Integrated Heat-Spreading Architecture:** The **thermal rod** and **Mo inserts** work in tandem. The rod conducts heat axially from the pellet centers, while the inserts conduct it radially from the pellet ends to the cladding. This creates a multi-path heat removal system.
 *   **Mechanical Assembly:** All pellets and inserts are **slid onto the single thermal rod**, forming a cohesive, self-aligning stack. The rod is permanently fixed only at its **lower base** via a reliable Mo↔Mo diffusion braze, allowing for differential thermal expansion along its length.
 
-#### 5.4.2. Thermal Rod Stack Assembly
+#### **5.3.1. Fabrication Methods for Internal Components**
+
+| Component | Primary Fabrication Method | Key Process Notes / Rationale |
+| :--- | :--- | :--- |
+| **UO₂–Mo Fuel Pellet** | **Powder Metallurgy: Hot Isostatic Pressing (HIP).** | 1. **Powder Mix:** Blending of UO₂ and Mo powders (70/30 wt%). <br> 2. **Molding:** Loading into a **sacrificial Silicon Carbide (SiC) die** with the final pellet geometry (Ø20×20 mm with a Ø6.97 mm central hole). <br> 3. **Consolidation:** HIP at ~1500-1700°C under Argon pressure (~100 MPa) to achieve near-theoretical density and a homogeneous, crack-free microstructure. |
+| **Molybdenum Insert** | **Sheet Metal Forming & Machining.** | 1. **Material:** Starts as **rolled Mo sheet of full insert thickness (6.5 mm)**. <br> 2. **Blank Preparation:** Punching of Ø20 mm disks from the sheet. <br> 3. **Machining:** Drilling of the Ø7 mm central hole and finishing of dimensions. <br> 4. **Heat Treatment:** Stress-relief annealing. |
+| **Molybdenum Thermal Rod Assembly** | **Multi-Step Process: Rod Drawing + Sleeve Fabrication & Brazing.** | 1. **Core Rod:** Precision-drawn and ground Mo rod to **Ø6.00 mm**. <br> 2. **Compliant Sleeve:** Fabrication of a **corrugated Mo foil (~0.55 mm thick)**. The corrugation pattern is optimized for axial compliance. <br> 3. **Assembly:** The sleeve is wrapped around the core and **diffusion-brazed** to it, forming a permanent bond. The final assembly diameter is **nominally ~7.1 mm**, providing the necessary interface with the pellet/insert stack. |
+
+#### **5.3.2. Thermal Rod Stack Assembly**
 
 Pellets and inserts are mounted onto the thermal rod using **thermal interference fit**.  
 No mechanical fasteners — only controlled heating and cooling.
