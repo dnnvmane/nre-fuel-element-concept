@@ -42,8 +42,8 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 
 | Component | Qty | Material & Composition | Dimensions (Ø × h) | Primary Function | Key Parameter / Note | Est. Mass |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Fuel Pellet** | 10 | **UO₂–Mo Composite**<br>(70% UO₂, 30% Mo) | Ø20×20 mm<br>(Ø6.9 mm central hole) | **Heat Generation** via U-235 fission. | • **Enrichment:** 30% U-235.<br>• **Power:** ~30 kW/pellet.<br>• **Total Heat Area:** 22.48 cm². | ~590 g |
-| **Thermal Insert** | 11 | **Pure Molybdenum (Mo)** | Ø20×5 mm<br>(Ø6.9 mm central hole) | **Axial Heat Spreading** from pellet ends to cladding. | Ensures uniform temperature distribution along the column. | ~155 g |
+| **Fuel Pellet** | 10 | **UO₂–Mo Composite**<br>(70% UO₂, 30% Mo) | Ø20×20 mm<br>(Ø6.97 mm central hole) | **Heat Generation** via U-235 fission. | • **Enrichment:** 30% U-235.<br>• **Power:** ~30 kW/pellet.<br>• **Total Heat Area:** 22.48 cm². | ~590 g |
+| **Thermal Insert** | 11 | **Pure Molybdenum (Mo)** | Ø20×5 mm<br>(Ø6.97 mm central hole) | **Axial Heat Spreading** from pellet ends to cladding. | Ensures uniform temperature distribution along the column. | ~155 g |
 | **Thermal Rod** | 1 | **Pure Molybdenum (Mo)** | Ø7×269 mm | 1. **Central Heat Conductor** (axial).<br>2. **Mechanical Spine** for the entire stack. | • Height allows for thermal expansion.<br>• Brazed at base to reactor core (Mo↔Mo at ~1000 K). | ~106 g |
 
 ---
@@ -62,6 +62,25 @@ The heat-generating core is a stack of fuel pellets and conductive inserts, asse
 *   **Integrated Heat-Spreading Architecture:** The **thermal rod** and **Mo inserts** work in tandem. The rod conducts heat axially from the pellet centers, while the inserts conduct it radially from the pellet ends to the cladding. This creates a multi-path heat removal system.
 *   **Mechanical Assembly:** All pellets and inserts are **slid onto the single thermal rod**, forming a cohesive, self-aligning stack. The rod is permanently fixed only at its **lower base** via a reliable Mo↔Mo diffusion braze, allowing for differential thermal expansion along its length.
 
+#### 5.4.2. Thermal Rod Stack Assembly
+
+Pellets and inserts are mounted onto the thermal rod using **thermal interference fit**.  
+No mechanical fasteners — only controlled heating and cooling.
+
+| Step | Operation | Parameters | Notes |
+|:-----|:----------|:-----------|:------|
+| **1** | Heat thermal inserts (Mo) | **1100–1200 K** | Argon atmosphere |
+| **2** | Heat fuel pellets (UO₂–Mo) | **700–800 K** | Separate heating cycle |
+| **3** | Keep thermal rod cold | **273 K** | Ø7.00 mm |
+| **4** | Slide heated parts onto rod | Their holes expand from ~∅6.97 mm to ~Ø7.00–7.02 mm | Loose fit during assembly |
+| **5 | Leave 0.5 mm helium gaps (by the height of the rod)** | Laser‑marked positions | Critical for fission product sweep |
+| **6** | Cool to room temperature | Natural cooling in Ar | **Interference fit achieved** — parts are locked |
+
+**Why two different temperatures?**
+- Mo inserts need **higher temperature** to expand enough (α_Mo ≈ 5×10⁻⁶).
+- UO₂–Mo pellets expand more easily (α_UO₂ ≈ 10×10⁻⁶) → lower temperature is sufficient.
+**Result:**  
+All components are **self-locking** on the rod. No brazing, no threading, no loose parts.
 ### **5.4. Helium Buffer & Integrated Fission Product Management System**
 
 Helium at an initial pressure of ~5 atm (at 300 K) fills all internal voids, serving three critical functions: 1) **Heat transfer medium**; 2) **Fission product (FP) transport fluid**; 3) **Pressure equalization buffer**.
